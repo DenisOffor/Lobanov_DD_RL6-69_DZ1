@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at Counter_verilog.v(6): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at Subtractor_verilog.v(9): always construct contains both blocking and non-blocking assignments

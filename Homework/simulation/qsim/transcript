@@ -1,0 +1,14 @@
+# do Homework.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module main
+# 
+# Top level modules:
+# 	main
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module main_vlg_sample_tst
+# -- Compiling module main_vlg_check_tst
+# ** Error: Homework.vt(61): near "-": syntax error, unexpected '-', expecting ')'
+# ** Error: d:/altera/13.0sp1/modelsim_ase/win32aloem/vlog failed.
+# Executing ONERROR command at macro ./Homework.do line 4
